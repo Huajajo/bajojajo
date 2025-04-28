@@ -43,6 +43,13 @@ footer {
 
 }
 
+footer span {
+
+    justify-content: space-evenly;
+}
+
+
+
 audio {
     position:absolute;
     right: -25;
