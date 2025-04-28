@@ -1,0 +1,27 @@
+body {
+	font-family: Eurostile, sans-serif;
+	background-color: #98FF98;
+	color: #333;
+	text-align: center;
+}
+
+h1 {
+	color: navy;
+}
+
+p {
+	font-size: 36px;
+}
+a {
+	color:green;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+img{
+	max-width:200px;
+	height: auto;
+	margin-top: 20px;
+}

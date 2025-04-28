@@ -1,0 +1,43 @@
+body {
+	font-family: Eurostile, sans-serif;
+	background-color: #98FF98;
+	color: #333;
+	text-align: center;
+}
+p {
+	font-size: 100px;
+    color: pink;
+}
+h1 { 
+    font-size: 100px;
+}
+
+.kwadrat {
+    width: 170px;
+    height:50;
+    background-color: aliceblue;
+    position: fixed;
+
+}
+
+.prostokat {
+    width: 50px;
+    height: 350px;
+    background-color:lightpink;
+    position: fixed;
+    bottom: 28%;
+    left: 4.5%
+}
+
+footer {
+    position:fixed; 
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+audio {
+    position:absolute;
+    right: -25;
+}
+
